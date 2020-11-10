@@ -1,0 +1,57 @@
+,ID,CHROMOSOME,CENTER_CM,SIGNIFICANCE,RAZA,PAIS,GENE_ASOCIATE
+1,#13827 ,1,96.42 (cM),Significant,Manchega,Spain,n/a
+2,#13830 ,1,128.2 (cM),Significant,Manchega,Spain,n/a
+3,#13832 ,1,124.3 (cM),Significant,Manchega,Spain,n/a
+4,#57709 ,1,0.00 (cM),Significant,Spanish Churra,Spain,n/a
+5,#13992 ,2,206 (cM),Suggestive,Awassi,Australia,n/a
+6,#14147 ,2,238.81 (cM),Significant,Dorset,USA,n/a
+7,#57681 ,2,0.00 (cM),Significant,Spanish Churra,Spain,n/a
+8,#57684 ,2,0.00 (cM),Significant,Spanish Churra,Spain,n/a
+9,#57718 ,2,68.17 (cM),Significant,Spanish Churra,Spain,n/a
+10,#13996 ,3,88.2 (cM),Significant,Awassi,Australia,n/a
+11,#57740 ,3,130.96 (cM),Significant,Spanish Churra,Spain,n/a
+12,#193115,4,114.67 (cM),Suggestive,Barki,Germany,LEP (leptin)
+13,#13672 ,6,119.8 (cM),Significant,Spanish Churra,Spain,n/a
+14,#13818 ,6,59 (cM),Significant,Awassi,Hungary,n/a
+15,#13820 ,6,59 (cM),Significant,Awassi,Hungary,n/a
+16,#14246 ,6,49.9 (cM),Significant,Spanish Churra,Spain,"ABCG2 (ATP-binding cassette, sub-family G (WHITE), member 2)"
+17,#170586,6,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+18,#57745 ,7,60.46 (cM),Significant,Spanish Churra,Spain,n/a
+19,#13985 ,9,16.6 (cM),Significant,Sardianian,Italy,DGAT1 (diacylglycerol O-acyltransferase 1)
+20,#16017 ,11,33 (cM),Significant,Awassi,Australia,n/a
+21,#37589 ,11,0.00 (cM),Significant,Sardianian,"Sassari,Italy",GH (growth hormone)
+22,#37592 ,11,0.00 (cM),Significant,Sardianian,"Sassari,Italy",GH (growth hormone)
+23,#14148 ,12,37.73 (cM),Significant,Dorset,USA,n/a
+24,#57690 ,12,0.00 (cM),Significant,Spanish Churra,Spain,n/a
+25,#57749 ,13,20.25 (cM),Significant,Spanish Churra,Spain,n/a
+26,#170593,13,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+27,#170594,13,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+28,#170597,13,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+29,#170598,13,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+30,#14190 ,14,57.9 (cM),Significant,Sardianian,Italy,LCAT (lecithin-cholesterol acyltransferase)
+31,#170601,14,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+32,#170602,14,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+33,#170604,14,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+34,#170605,14,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+35,#14186 ,15,73.5 (cM),Significant,Sardianian,Italy,n/a
+36,#57696 ,16,0.00 (cM),Significant,Spanish Churra,Spain,n/a
+37,#57730 ,16,13.53 (cM),Significant,Spanish Churra,Spain,n/a
+38,#57752 ,16,14.13 (cM),Significant,Spanish Churra,Spain,n/a
+39,#170609,16,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+40,#57756 ,17,52.31 (cM),Significant,Spanish Churra,Spain,n/a
+41,#14149 ,18,40.88 (cM),Significant,Dorset,USA,n/a
+42,#14150 ,18,40.88 (cM),Significant,Dorset,USA,n/a
+43,#14192 ,18,91.7 (cM),Significant,Sardianian,Italy,n/a
+44,#14193 ,18,91.7 (cM),Significant,Sardianian,Italy,n/a
+45,#57732 ,19,57.44 (cM),Significant,Spanish Churra,Spain,n/a
+46,#170613,19,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+47,#170616,19,0.00 (cM),Significant,Valle del Belice,Italy,n/a
+48,#14006 ,20,36.8 (cM),Significant,Awassi,Australia,n/a
+49,#14151 ,20,39.82 (cM),Significant,Dorset,USA,n/a
+50,#193118,20,66.88 (cM),Suggestive,Barki,Germany,PRL (prolactin)
+51,#170221,21,43.59 (cM),Significant,Valle del Belice,Italy,"DCPS (decapping enzyme, scavenger)"
+52,#57763 ,22,10.68 (cM),Significant,Spanish Churra,Spain,n/a
+53,#13906 ,23,68.97 (cM),Suggestive,Spanish Churra,Spain,n/a
+54,#14008 ,24,73 (cM),Suggestive,Awassi,Australia,n/a
+55,#14152 ,24,14.46 (cM),Significant,Dorset,USA,n/a
+56,#170222,26,16.02 (cM),Significant,Valle del Belice,Italy,n/a
